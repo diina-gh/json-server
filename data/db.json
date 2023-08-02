@@ -61,17 +61,17 @@
       "description": "This category caters to software developers and programmers, offering tips, best practices, and tutorials on coding languages, frameworks, development methodologies, and software engineering principles."
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Tech and Society",
       "description": "Explores the intersection of technology and society, discussing the social impact of technology. It covers topics like digital divide, tech addiction, online communities, and the influence of social media on society."
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Artificial Intelligence",
       "description": "Delves into the world of AI and ML, discussing recent developments, applications, and trends in these fields. It covers topics like natural language processing, computer vision, AI ethics, and the impact of AI on various industries."
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Gadgets and Reviews",
       "description": "Focuses on the latest and greatest gadgets and tech products in the market. It includes in-depth reviews, comparisons, and recommendations for smartphones, laptops, smartwatches, VR headsets, cameras, and other electronic devices."
     },
